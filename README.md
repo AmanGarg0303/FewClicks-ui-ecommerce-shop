@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+You can run this project on
+https://amangarg0303.github.io/FewClicks-ui-ecommerce-shop/
+
+If the link does not work, please reload the page!
+
 ## Available Scripts
 
 In the project directory, you can run:
